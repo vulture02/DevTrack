@@ -244,10 +244,5 @@ Contributions are welcome!
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-No license has been added yet. Add a `LICENSE` file (e.g. MIT) to specify how others may use this project.
-
-## 👤 Author
 
 **vulture02** — [GitHub](https://github.com/vulture02)
